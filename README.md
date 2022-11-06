@@ -1,4 +1,4 @@
-##Master 0 IP: 192.168.1.110:  
+## Master 0 IP: 192.168.1.110:  
 vi /etc/my.cnf  
 sync_binlog=1  
 binlog-do-db=hello  
